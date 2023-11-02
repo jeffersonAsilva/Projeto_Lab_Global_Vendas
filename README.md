@@ -18,5 +18,5 @@ todas essas questões deve se apresentar em um dashboard.
 
 ##  Image do Projeto
 
-<img src="https://github.com/jeffersonAsilva/Projeto_Lab_Global_Vendas/master/projeto_lab.png">
+<img src="https://github.com/jeffersonAsilva/Projeto_Lab_Global_Vendas/blob/master/projeto_lab.PNG">
 
